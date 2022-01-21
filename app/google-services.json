@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181229497488",
+    "project_id": "app-study-wisesayingtoday",
+    "storage_bucket": "app-study-wisesayingtoday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181229497488:android:0a23b6bfac8c23cc317c15",
+        "android_client_info": {
+          "package_name": "com.example.app_study_wise_saying_today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181229497488-9jno1klgf17cjggdc1vkmpumdb787ag0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCYSriP3OvHz7JT6M27rhtlQAD47P-O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181229497488-9jno1klgf17cjggdc1vkmpumdb787ag0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
